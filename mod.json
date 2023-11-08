@@ -1,0 +1,15 @@
+{
+  "Name": "Invisible",
+  "Author": "blahblahaccount",
+  "Description": "Adds an invisible guy",
+  "ModVersion": "1.0",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs"
+  ]
+}
